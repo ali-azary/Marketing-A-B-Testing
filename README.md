@@ -27,11 +27,11 @@ most ads hour: Hour of day that the person saw the biggest amount of ads
 Bayesian test is done and conversion rates, trends, and ads hors and days have been analyzed.
 
 ![table](https://user-images.githubusercontent.com/69943289/221383667-a5558ffe-29b2-4554-b696-ab69a2e066fe.jpg)
-![ad-heatmap](https://user-images.githubusercontent.com/69943289/221383684-1b8429ac-8bbd-4f5d-a2ff-551aeebbffe1.jpg)
+![ad-heatmap](https://user-images.githubusercontent.com/69943289/221383684-1b8429ac-8bbd-4f5d-a2ff-551aeebbffe1.jpg)![psa-heatmap](https://user-images.githubusercontent.com/69943289/221383696-01ea3e66-ac7d-433b-91e5-ae254b5239f3.jpg)
 ![ads-seen-conversion](https://user-images.githubusercontent.com/69943289/221383686-2e464579-8fe0-4c2a-ac29-d74acc2f8b68.jpg)
 ![conversion-bar](https://user-images.githubusercontent.com/69943289/221383688-295b986d-d403-4766-92e0-8d5599b65cfb.jpg)
 ![days](https://user-images.githubusercontent.com/69943289/221383691-6907b33b-f06b-4e6e-8a9b-355cedb3e916.jpg)
 ![distribution](https://user-images.githubusercontent.com/69943289/221383693-a0602cd9-13bc-4ea9-a4d5-3b18a67d390b.jpg)
 ![hours](https://user-images.githubusercontent.com/69943289/221383694-09f58eda-84b0-46af-897d-3b3741e5f5e3.jpg)
 ![pdf](https://user-images.githubusercontent.com/69943289/221383695-a9a26e3e-93be-4cec-9dc0-bf4aa37ccc1b.jpg)
-![psa-heatmap](https://user-images.githubusercontent.com/69943289/221383696-01ea3e66-ac7d-433b-91e5-ae254b5239f3.jpg)
+
